@@ -19,8 +19,6 @@ using System.Runtime.InteropServices;
 using System.IO.Compression;
 
 
-
-
 namespace Item_ImageAll_Backup_Console
 {
     class Program
